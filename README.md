@@ -30,8 +30,6 @@ Get an introduction to Structured Query Language (SQL), its significance in data
 - [History and Evolution of SQL](https://en.wikipedia.org/wiki/SQL)
 - [SQL Use Cases](https://www.geeksforgeeks.org/sql-basic-commands/)
 
-### Downloads
-[Download Chapter 1: Introduction to SQL](#)
 
 ### Exercise:
 Write a simple SQL query to retrieve a list of all columns from a sample database.
@@ -48,8 +46,6 @@ Learn how to set up a SQL environment to practice queries. This chapter covers t
 - [Setting Up PostgreSQL](https://www.postgresql.org/download/)
 - [Using SQLite for SQL Practice](https://www.sqlitetutorial.net/getting-started/)
 
-### Downloads
-[Download Chapter 2: Setting Up Your Environment](#)
 
 ### Exercise:
 Set up MySQL, PostgreSQL, or SQLite on your local machine and create a sample database for practice.
@@ -67,8 +63,6 @@ Learn the foundation of SQL, starting with the `SELECT` statement and the basic 
 - [Ordering Results](https://www.w3schools.com/sql/sql_orderby.asp)
 - [Basic Filtering with `WHERE`](https://www.w3schools.com/sql/sql_where.asp)
 
-### Downloads
-[Download Chapter 3: SQL Basics](#)
 
 ### Exercise:
 Write a SQL query to fetch specific records from a table based on conditions.
@@ -86,8 +80,6 @@ Understand how to create, manage, and use databases in SQL, including selecting 
 - [Switching Databases](https://www.w3schools.com/sql/sql_use.asp)
 - [Dropping a Database](https://www.w3schools.com/sql/sql_drop_database.asp)
 
-### Downloads
-[Download Chapter 4: Working with Databases](#)
 
 ### Exercise:
 Create a database named `school` and switch to it. Then, create a table for students.
@@ -105,8 +97,6 @@ Explore the different data types you can use to define the structure of your tab
 - [Date and Time Data Types](https://www.w3schools.com/sql/sql_datatypes_datetime.asp)
 - [Boolean Data Type](https://www.w3schools.com/sql/sql_datatypes_misc.asp)
 
-### Downloads
-[Download Chapter 5: Data Types in SQL](#)
 
 ### Exercise:
 Define a table to store employee details, making sure to use the appropriate data types.
@@ -124,8 +114,6 @@ Dive deeper into writing various types of SQL queries, from simple data retrieva
 - [Using `WHERE` to Filter Data](https://www.w3schools.com/sql/sql_where.asp)
 - [Using Logical Operators](https://www.w3schools.com/sql/sql_and_or.asp)
 
-### Downloads
-[Download Chapter 6: Writing SQL Queries](#)
 
 ### Exercise:
 Write queries to fetch distinct student names and find records using multiple conditions in `WHERE`.
@@ -143,8 +131,6 @@ Learn to use powerful SQL clauses that allow you to manipulate and refine your d
 - [Using `JOIN`](https://www.w3schools.com/sql/sql_join.asp)
 - [Using `ORDER BY`](https://www.w3schools.com/sql/sql_orderby.asp)
 
-### Downloads
-[Download Chapter 7: Using Clauses in SQL](#)
 
 ### Exercise:
 Write SQL queries using `GROUP BY` to group results by certain attributes and order them by specific columns.
@@ -162,8 +148,6 @@ Learn how to retrieve data from multiple related tables using SQL joins.
 - [Right Join](https://www.w3schools.com/sql/sql_join_right.asp)
 - [Full Join](https://www.w3schools.com/sql/sql_join_full.asp)
 
-### Downloads
-[Download Chapter 8: Joins in SQL](#)
 
 ### Exercise:
 Write SQL queries that join two or more tables, filtering data from those tables.
@@ -180,8 +164,6 @@ Understand how to use subqueries to perform more complex operations within SQL q
 - [Subqueries in `WHERE` Clauses](https://www.w3schools.com/sql/sql_subqueries_where.asp)
 - [Using Subqueries with `IN` and `EXISTS`](https://www.w3schools.com/sql/sql_subquery_in.asp)
 
-### Downloads
-[Download Chapter 9: Subqueries](#)
 
 ### Exercise:
 Write a subquery that returns records from one table based on conditions from another table.
@@ -199,8 +181,6 @@ Explore SQL's functions for performing operations on data and aggregation of res
 - [Date Functions](https://www.w3schools.com/sql/sql_date_functions.asp)
 - [Aggregation Functions (`COUNT`, `AVG`, `SUM`, etc.)](https://www.w3schools.com/sql/sql_count_avg_sum.asp)
 
-### Downloads
-[Download Chapter 10: SQL Functions and Aggregation](#)
 
 ### Exercise:
 Write SQL queries to calculate the total sales for each employee using aggregate functions.
@@ -217,8 +197,6 @@ Learn advanced SQL topics such as indexes, views, and transaction handling.
 - [Using Views](https://www.w3schools.com/sql/sql_create_view.asp)
 - [Transaction Control (`BEGIN`, `COMMIT`, `ROLLBACK`)](https://www.w3schools.com/sql/sql_transactions.asp)
 
-### Downloads
-[Download Chapter 11: Indexes, Views, and Transactions](#)
 
 ### Exercise:
 Create an index on the `email` column of a customer table. Then, use a transaction to ensure the integrity of updating multiple records.
@@ -235,8 +213,6 @@ Learn about database normalization and its role in designing efficient, flexible
 - [First, Second, and Third Normal Forms](https://www.w3schools.com/sql/sql_normalforms.asp)
 - [Dealing with Data Redundancy and Integrity](https://www.w3schools.com/sql/sql_what_is_normalization.asp)
 
-### Downloads
-[Download Chapter 12: Database Normalization](#)
 
 ### Exercise:
 Normalize a flat database schema for employee records and relationships with department tables.
@@ -253,8 +229,6 @@ Dive deeper into advanced topics such as recursive queries, CTEs, and more.
 - [Recursive Queries in SQL](https://www.sqlshack.com/sql-recursive-queries/)
 - [Window Functions](https://www.w3schools.com/sql/sql_window_functions.asp)
 
-### Downloads
-[Download Chapter 13: Advanced SQL Topics](#)
 
 ### Exercise:
 Write a recursive query to calculate the factorial of a number using SQL.
@@ -272,3 +246,5 @@ This repository is licensed under the [MIT License](LICENSE). See the LICENSE fi
 ---
 
 Happy Coding with SQL! 🚀
+
+
